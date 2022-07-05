@@ -1,9 +1,19 @@
 body{
   margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+span{
+  color: orange;
+}
+.top-order{
+  display: flex;
 }
 .left-div{
   width: 50%;
 }
 .right-div{
   width: 50%;
+}
+.male-photo{
+  width: 100%;
 }
